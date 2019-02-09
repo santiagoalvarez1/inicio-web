@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<html lang="sp-CO">
+<body>
+<p title="lamborghini">
+parrafo 
+</p>
+<título> yeraldin y santiago </título>
+<cuerpo> siempre amigos </cuerpo>
+
+<h1>aprendiendo a crear software</h1>
+<hr>
+<h2 style="font-size:70px;">lo mas genial</h2>
+<p> este es un parrafo </p>
+<hr>
+<h3>lo mejor</h3>
+<hr>
+<h4>forever</h4>
+
+<img src="file:///C:/Users/YERAL/Desktop/trabajo/Lamborghini-Aventador_01.jpg" widht="500" height="400" alt="lamborghini">
+
+<img style="color:red">
+
+<pre>
+Relación de afecto, simpatía y confianza 
+que se establece entre personas que no son familia.
+</pre>
+
+<p> parrafo de mi pagina </p>
+
+<p> esto es una linea <br> de salto </p>
+
+<a href="https://www.lamborghini.com/es-en/modelos"> esto es un link </a>
+
+<ol>
+<li> yeraldin </li>
+<li> santiago </li>
+<li> amo a los gatos </li>
+</ol>
+<p> multimedia es lo mejor. </p>
+</body>
+</html>
+
